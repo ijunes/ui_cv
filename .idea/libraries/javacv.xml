@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javacv">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/javacv-0.6-bin/javacv-bin/javacv.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/javacv-0.6-bin/javacv-bin/javacpp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
